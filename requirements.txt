@@ -7,7 +7,7 @@ backcall==0.1.0
 beautifulsoup4==4.9.0
 bleach==3.1.0
 ccxt==1.26.97
-certifi==2020.4.5.1
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 chart-studio==1.1.0
